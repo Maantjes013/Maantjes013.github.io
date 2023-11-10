@@ -1,0 +1,13 @@
+{
+    "pawns": [
+        {
+            "model": "pawns/cube/cube.obj",
+            "name": "pawns/cube/cube.txt"
+        },
+        {
+            "model": "pawns/sphere/sphere.obj",
+            "name": "pawns/sphere/sphere.txt"
+        }
+        // Add more pawns as needed
+    ]
+}

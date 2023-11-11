@@ -1,12 +1,12 @@
 {
     "pawns": [
         {
-            "model": "pawns/cube/cube.obj",
-            "modelname": "pawns/cube/cube.txt"
+            "model": "Pawns/Cube/Cube.obj",
+            "modelname": "Pawns/Cube/Cube.txt"
         },
         {
-            "model": "pawns/sphere/sphere.obj",
-            "modelname": "pawns/sphere/sphere.txt"
+            "model": "Pawns/Sphere/Sphere.obj",
+            "modelname": "Pawns/Sphere/Sphere.txt"
         }
         // Add more pawns as needed
     ]

@@ -1,16 +1,16 @@
 {
-    "pawns": [
-        {
-            "model": "Pawns/Cube/Cube.obj",
-            "modelname": "Pawns/Cube/Cube.txt"
-        },
-        {
-            "model": "Pawns/Sphere/Sphere.obj",
-            "modelname": "Pawns/Sphere/Sphere.txt"
-        },
-        {
-            "model": "Pawns/Cylinder/Cylinder.obj",
-            "modelname": "Pawns/Cylinder/Cylinder.txt"
-        }
-    ]
+  "pawns": [
+    {
+      "model": "Pawns\\Cube\\Cube.obj",
+      "modelname": "Pawns\\Cube\\Cube.txt"
+    },
+    {
+      "model": "Pawns\\Sphere\\Sphere.obj",
+      "modelname": "Pawns\\Sphere\\Sphere.txt"
+    },
+    {
+      "model": "Pawns\\Cylinder\\Cylinder.obj",
+      "modelname": "Pawns\\Cylinder\\Cylinder.txt"
+    }
+  ]
 }

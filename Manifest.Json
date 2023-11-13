@@ -1,12 +1,14 @@
 {
   "pawns": [
     {
-      "model": "Pawns\\Crab\\Crab.fbx",
-      "modelname": "Pawns\\Crab\\Crab.txt"
+      "modelBody": "Pawns\\Crab\\CrabBody.obj",
+      "modelPartToColor": "Pawns\\Crab\\CrabPartToColor.obj",
+      "modelName": "Pawns\\Crab\\Crab.txt"
     },
     {
-      "model": "Pawns\\Mushroom\\Mushroom.fbx",
-      "modelname": "Pawns\\Musroom\\Mushroom.txt"
+      "modelBody": "Pawns\\Mushroom\\MushroomBody.obj",
+      "modelPartToColor": "Pawns\\Mushroom\\MushroomPartToColor.obj",
+      "modelName": "Pawns\\Musroom\\Mushroom.txt"
     }
   ]
 }

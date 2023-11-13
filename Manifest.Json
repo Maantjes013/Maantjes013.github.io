@@ -1,16 +1,12 @@
 {
   "pawns": [
     {
-      "model": "Pawns\\Cube\\Cube.obj",
-      "modelname": "Pawns\\Cube\\Cube.txt"
+      "model": "Pawns\\Crab\\Crab.fbx",
+      "modelname": "Pawns\\Crab\\Crab.txt"
     },
     {
-      "model": "Pawns\\Sphere\\Sphere.obj",
-      "modelname": "Pawns\\Sphere\\Sphere.txt"
-    },
-    {
-      "model": "Pawns\\Cylinder\\Cylinder.obj",
-      "modelname": "Pawns\\Cylinder\\Cylinder.txt"
+      "model": "Pawns\\Mushroom\\Mushroom.fbx",
+      "modelname": "Pawns\\Musroom\\Mushroom.txt"
     }
   ]
 }

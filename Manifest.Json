@@ -1,7 +1,7 @@
 {
   "pawns": [
     {
-      "pawnInformation": "Pawns\\Squid\\Information_Squid.json"
+      "pawnInformation": "Pawns\\Squid\\Information_Squid.Json"
     }
   ]
 }

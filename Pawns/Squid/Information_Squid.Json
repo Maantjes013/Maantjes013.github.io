@@ -1,0 +1,9 @@
+{
+  "pawnName": "Squid",
+  "unlockRequirements": [
+    {
+      "requirementName": "Play 10 games",
+      "goal": 10
+    }
+  ]
+}

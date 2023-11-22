@@ -1,14 +1,7 @@
 {
   "pawns": [
     {
-      "modelBody": "Pawns\\Crab\\CrabBody.obj",
-      "modelPartToColor": "Pawns\\Crab\\CrabPartToColor.obj",
-      "modelName": "Pawns\\Crab\\Crab.txt"
-    },
-    {
-      "modelBody": "Pawns\\Mushroom\\MushroomBody.obj",
-      "modelPartToColor": "Pawns\\Mushroom\\MushroomPartToColor.obj",
-      "modelName": "Pawns\\Mushroom\\Mushroom.txt"
+      "pawnInformation": "Pawns\\Squid\\Information_Squid.json"
     }
   ]
 }

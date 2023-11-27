@@ -1,7 +1,8 @@
 {
   "pawns": [
     {
-      "pawnInformation": "Pawns\\Squid\\Information_Squid.Json"
+      "pawnInformation": "Pawns\\Squid\\Information_Squid.Json",
+      "pawnModel": "Pawns\\Squid\\Squid_Animations.Json"
     }
   ],
   "version": "0.1"

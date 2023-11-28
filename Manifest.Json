@@ -2,7 +2,10 @@
   "pawns": [
     {
       "pawnInformation": "Pawns\\Squid\\Information_Squid.Json"
+    },
+    {
+      "pawnInformation": "Pawns\\Rat\\Information_Rat.Json"
     }
   ],
-  "version": "0.1"
+  "version": "0.2"
 }

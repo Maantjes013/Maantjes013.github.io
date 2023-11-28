@@ -1,0 +1,11 @@
+{
+  "pawnName": "Patrat",
+  "unlockRequirements": [
+    {
+      "unlockId": 1,
+      "requirementName": "Play 10 games",
+      "goal": 10
+    }
+  ],
+  "modelDir": "Pawns\\Rat\\Rat.fbx"
+}

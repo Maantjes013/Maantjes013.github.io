@@ -2,7 +2,7 @@
   "pawnName": "Patrat",
   "unlockRequirements": [
     {
-      "unlockId": 1,
+      "unlockId": "FinishedGame",
       "requirementName": "Play 10 games",
       "goal": 10
     }

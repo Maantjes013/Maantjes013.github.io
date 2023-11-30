@@ -2,14 +2,14 @@
   "pawnName": "Octo",
   "unlockRequirements": [
     {
-      "unlockId": 1,
+      "unlockId": "FinishedGame",
       "requirementName": "Play 10 games",
       "goal": 10
     },
     {
-      "unlockId": 2,
-      "requirementName": "Login 5 times",
-      "goal": 5
+      "unlockId": "LoggedIn",
+      "requirementName": "Login with a GameBus account",
+      "goal": 1
     }
   ],
   "modelDir": "Pawns\\Squid\\Squid.fbx"

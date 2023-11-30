@@ -2,9 +2,9 @@
   "pawnName": "Patrat",
   "unlockRequirements": [
     {
-      "unlockId": "FinishedGame",
-      "requirementName": "Play 10 games",
-      "goal": 10
+      "unlockId": 98,
+      "requirementName": "Login with a GameBus account",
+      "goal": 1
     }
   ],
   "modelDir": "Pawns\\Rat\\Rat.fbx"

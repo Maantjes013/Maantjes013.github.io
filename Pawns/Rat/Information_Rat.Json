@@ -2,7 +2,7 @@
   "pawnName": "Patrat",
   "unlockRequirements": [
     {
-      "unlockId": 98,
+      "unlockId": 1200,
       "requirementName": "Login with a GameBus account",
       "goal": 1
     }

@@ -2,7 +2,7 @@
   "pawnName": "Octo",
   "unlockRequirements": [
     {
-      "unlockId": 110,
+      "unlockId": 1404,
       "requirementName": "Play 10 games",
       "goal": 10
     }

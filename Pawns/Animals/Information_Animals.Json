@@ -1,0 +1,41 @@
+{
+  "genre": "Animals",
+  "pawnTiers": [
+    {
+      "pawnName": "Rat",
+      "unlockRequirements": [
+        {
+          "unlockId": 1200,
+          "requirementName": "Log in met een GameBus account",
+          "goal": 1
+        }
+      ],
+      "modelDir": "Pawns\\Animals\\Rat\\Rat.fbx",
+      "screenshotDir": "Pawns\\Animals\\Rat\\Rat.png"
+    },
+    {
+      "pawnName": "Haring",
+      "unlockRequirements": [
+        {
+          "unlockId": 1201,
+          "requirementName": "Sla een gespeeld potje SugarVita op",
+          "goal": 1
+        }
+      ],
+      "modelDir": "Pawns\\Animals\\Herring\\Herring.fbx",
+      "screenshotDir": "Pawns\\Animals\\Herring\\Herring.png"
+    },
+    {
+      "pawnName": "Taipan",
+      "unlockRequirements": [
+        {
+          "unlockId": 1401,
+          "requirementName": "Speel tegen een computer tegenstander",
+          "goal": 1
+        }
+      ],
+      "modelDir": "Pawns\\Animals\\Taipan\\Taipan.fbx",
+      "screenshotDir": "Pawns\\Animals\\Taipan\\Taipan.png"
+    }
+  ]
+}

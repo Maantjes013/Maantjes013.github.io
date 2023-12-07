@@ -1,11 +1,17 @@
 {
-  "pawnName": "Octo",
-  "unlockRequirements": [
+  "genre": "Squid",
+  "pawnTiers": [
     {
-      "unlockId": 1404,
-      "requirementName": "Play 10 games",
-      "goal": 10
+      "pawnName": "Octo",
+      "unlockRequirements": [
+        {
+          "unlockId": 1404,
+          "requirementName": "Play 10 games",
+          "goal": 10
+        }
+      ],
+      "modelDir": "Pawns\\Squid\\Squid.fbx",
+      "screenshotDir": "Pawns\\Squid\\Squid.png"
     }
-  ],
-  "modelDir": "Pawns\\Squid\\Squid.fbx"
+  ]
 }

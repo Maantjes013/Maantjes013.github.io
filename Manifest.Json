@@ -1,11 +1,11 @@
 {
   "pawns": [
     {
-      "pawnInformation": "Pawns\\Squid\\Information_Squid.Json"
+      "pawnZip": "Pawns\\Squid.zip"
     },
     {
-      "pawnInformation": "Pawns\\Animals\\Information_Animals.Json"
+      "pawnZip": "Pawns\\Animals.zip"
     }
   ],
-  "version": "0.4"
+  "version": "0.5"
 }

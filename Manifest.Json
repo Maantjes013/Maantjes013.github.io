@@ -5,7 +5,10 @@
     },
     {
       "pawnZip": "Pawns\\Animals.zip"
+    },
+    {
+      "pawnZip": "Pawns\\Donuts.zip"
     }
   ],
-  "version": "0.5"
+  "version": "0.6"
 }

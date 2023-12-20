@@ -8,7 +8,10 @@
     },
     {
       "pawnZip": "Pawns\\Donuts.zip"
+    },
+    {
+      "pawnZip": "Pawns\\Grapes.zip"
     }
   ],
-  "version": "0.6"
+  "version": "0.61"
 }

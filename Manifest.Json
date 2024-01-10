@@ -11,7 +11,10 @@
     },
     {
       "pawnZip": "Pawns\\Grapes.zip"
+    },
+    {
+      "pawnZip": "Pawns\\Fries.zip"
     }
   ],
-  "version": "0.61"
+  "version": "0.62"
 }

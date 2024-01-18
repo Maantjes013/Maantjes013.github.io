@@ -1,12 +1,6 @@
 {
   "pawns": [
     {
-      "pawnZip": "Pawns\\Squid.zip"
-    },
-    {
-      "pawnZip": "Pawns\\Animals.zip"
-    },
-    {
       "pawnZip": "Pawns\\Donuts.zip"
     },
     {
@@ -16,5 +10,5 @@
       "pawnZip": "Pawns\\Fries.zip"
     }
   ],
-  "version": "0.62"
+  "version": "0.7"
 }

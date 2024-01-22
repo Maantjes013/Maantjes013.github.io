@@ -1,0 +1,31 @@
+{
+  "genre": "Fruits",
+  "pawnTiers": [
+    {
+      "pawnName": "Druiven",
+      "pawnType": "Grapes"
+    },
+    {
+      "pawnName": "Ananas",
+      "pawnType": "Pineapple",
+      "unlockRequirements": [
+        {
+          //"unlockId": 201,
+          //"requirementName": "Eet 10 stukken fruit",
+          //"goal": 10
+        }
+      ]
+    }
+    //{
+    //  "pawnName": "Blauwe Druiven",
+    //  "pawnType": "BlueGrapes",
+    //  "unlockRequirements": [
+    //    {
+    //      "unlockId": 1305,
+    //      "requirementName": "Behaal een tijd binnen doelbereik (TIR) van minimaal 70% in 5 potjes",
+    //      "goal": 5
+    //    }
+    //  ]
+    //}
+  ]
+}

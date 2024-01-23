@@ -1,0 +1,21 @@
+{
+  "genre": "Fries",
+  "pawnTiers": [
+    {
+      "pawnName": "Frietje",
+      "pawnType": "NormalFries",
+      "unlockRequirements": []
+    },
+    {
+      "pawnName": "Friet Met Cola",
+      "pawnType": "FriesCoke",
+      "unlockRequirements": [
+        {
+          "unlockId": 208,
+          "requirementName": "Eet 10 snacks.",
+          "goal": 10
+        }
+      ]
+    }
+  ]
+}

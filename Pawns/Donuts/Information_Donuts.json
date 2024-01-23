@@ -1,0 +1,38 @@
+{
+  "genre": "Donuts",
+  "pawnTiers": [
+    {
+      "pawnName": "Glazuur Donut",
+      "pawnType": "Glazed",
+      "unlockRequirements": [
+        {
+          "unlockId": 1404,
+          "requirementName": "Speel één potje SugarVita",
+          "goal": 1
+        }
+      ]
+    },
+    {
+      "pawnName": "Chocolade Donut",
+      "pawnType": "Chocolate",
+      "unlockRequirements": [
+        {
+          "unlockId": 100,
+          "requirementName": "Eet 50 voedingswaren.",
+          "goal": 50
+        }
+      ]
+    },
+    {
+      "pawnName": "Roze Donut",
+      "pawnType": "Pink",
+      "unlockRequirements": [
+        {
+          "unlockId": 10,
+          "requirementName": "Ga 20 keer sporten.",
+          "goal": 20
+        }
+      ]
+    }
+  ]
+}

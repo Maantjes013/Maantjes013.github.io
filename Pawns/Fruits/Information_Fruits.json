@@ -6,8 +6,8 @@
       "pawnType": "Grapes"
     },
     {
-      "pawnName": "Ananas",
-      "pawnType": "Pineapple",
+      "pawnName": "Watermeloen",
+      "pawnType": "Watermelon",
       "unlockRequirements": [
         {
           //"unlockId": 201,
@@ -15,17 +15,18 @@
           //"goal": 10
         }
       ]
+    },
+    {
+      "pawnName": "Ananas",
+      "pawnType": "Pineapple",
+      "unlockRequirements": [
+        {
+
+          //"unlockId": 1305,
+          //"requirementName": "Behaal een tijd binnen doelbereik (TIR) van minimaal 70% in 5 potjes",
+          //"goal": 5
+        }
+      ]
     }
-    //{
-    //  "pawnName": "Blauwe Druiven",
-    //  "pawnType": "BlueGrapes",
-    //  "unlockRequirements": [
-    //    {
-    //      "unlockId": 1305,
-    //      "requirementName": "Behaal een tijd binnen doelbereik (TIR) van minimaal 70% in 5 potjes",
-    //      "goal": 5
-    //    }
-    //  ]
-    //}
   ]
 }

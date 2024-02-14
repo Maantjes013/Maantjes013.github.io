@@ -1,0 +1,10 @@
+{
+  "genre": "Space",
+  "pawnTiers": [
+    {
+      "pawnName": "Aarde",
+      "pawnType": "Earth",
+      "unlockRequirements": []
+    }
+  ]
+}

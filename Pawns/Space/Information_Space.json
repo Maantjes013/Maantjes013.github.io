@@ -5,6 +5,16 @@
       "pawnName": "Aarde",
       "pawnType": "Earth",
       "unlockRequirements": []
+    },
+    {
+      "pawnName": "Mars",
+      "pawnType": "Mars",
+      "unlockRequirements": []
+    },
+    {
+      "pawnName": "Saturnus",
+      "pawnType": "Saturn",
+      "unlockRequirements": []
     }
   ]
 }

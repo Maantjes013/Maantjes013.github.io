@@ -9,12 +9,24 @@
     {
       "pawnName": "Mars",
       "pawnType": "Mars",
-      "unlockRequirements": []
+      "unlockRequirements": [
+        {
+          "unlockId": 1600,
+          "requirementName": "Beantwoord 5 willekeurige vragen goed tijdens het spelen.",
+          "goal": 5
+        }
+      ]
     },
     {
       "pawnName": "Saturnus",
       "pawnType": "Saturn",
-      "unlockRequirements": []
+      "unlockRequirements": [
+        {
+          "unlockId": 1601,
+          "requirementName": "Beantwoord alle vragen correct tijdens een potje SugarVita (3x).",
+          "goal": 3
+        }
+      ]
     }
   ]
 }

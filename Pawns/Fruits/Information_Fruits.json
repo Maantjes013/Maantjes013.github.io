@@ -10,9 +10,9 @@
       "pawnType": "Watermelon",
       "unlockRequirements": [
         {
-          //"unlockId": 201,
-          //"requirementName": "Eet 10 stukken fruit",
-          //"goal": 10
+          "unlockId": 201,
+          "requirementName": "Eet 10 stukken fruit",
+          "goal": 10
         }
       ]
     },
@@ -21,10 +21,9 @@
       "pawnType": "Pineapple",
       "unlockRequirements": [
         {
-
-          //"unlockId": 1305,
-          //"requirementName": "Behaal een tijd binnen doelbereik (TIR) van minimaal 70% in 5 potjes",
-          //"goal": 5
+          "unlockId": 1305,
+          "requirementName": "Behaal een tijd binnen doelbereik (TIR) van minimaal 70% in 5 potjes",
+          "goal": 5
         }
       ]
     }

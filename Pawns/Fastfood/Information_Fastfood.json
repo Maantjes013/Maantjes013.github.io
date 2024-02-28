@@ -1,0 +1,32 @@
+{
+  "genre": "Fastfood",
+  "pawnTiers": [
+    {
+      "pawnName": "Frietjes",
+      "pawnType": "Fries",
+      "unlockRequirements": []
+    },
+    {
+      "pawnName": "Cola",
+      "pawnType": "Coke",
+      "unlockRequirements": [
+        {
+          "unlockId": 101,
+          "requirementName": "Drink 10 keer.",
+          "goal": 10
+        }
+      ]
+    },
+    {
+      "pawnName": "Burger",
+      "pawnType": "Burger",
+      "unlockRequirements": [
+        {
+          "unlockId": 208,
+          "requirementName": "Eet 10 snacks.",
+          "goal": 10
+        }
+      ]
+    }
+  ]
+}

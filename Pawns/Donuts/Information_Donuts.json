@@ -4,13 +4,7 @@
     {
       "pawnName": "Glazuur Donut",
       "pawnType": "Glazed",
-      "unlockRequirements": [
-        {
-          "unlockId": 1404,
-          "requirementName": "Speel één potje SugarVita",
-          "goal": 1
-        }
-      ]
+      "unlockRequirements": []
     },
     {
       "pawnName": "Chocolade Donut",
@@ -18,8 +12,8 @@
       "unlockRequirements": [
         {
           "unlockId": 100,
-          "requirementName": "Eet 50 voedingswaren.",
-          "goal": 50
+          "requirementName": "Eet 10 voedingswaren.",
+          "goal": 10
         }
       ]
     },
@@ -29,8 +23,8 @@
       "unlockRequirements": [
         {
           "unlockId": 10,
-          "requirementName": "Ga 20 keer sporten.",
-          "goal": 20
+          "requirementName": "Ga 5 keer sporten/wandelen.",
+          "goal": 5
         }
       ]
     }

@@ -1,17 +1,21 @@
 {
   "pawns": [
     {
-      "pawnZip": "Pawns\\Donuts.zip"
+      "pawnZip": "Pawns\\Donuts.zip",
+      "order": 2
     },
     {
-      "pawnZip": "Pawns\\Fruits.zip"
+      "pawnZip": "Pawns\\Fruits.zip",
+      "order": 1
     },
     {
-      "pawnZip": "Pawns\\Fastfood.zip"
+      "pawnZip": "Pawns\\Fastfood.zip",
+      "order": 4
     },
     {
-      "pawnZip": "Pawns\\Space.zip"
+      "pawnZip": "Pawns\\Space.zip",
+      "order": 3
     }
   ],
-  "version": "0.83"
+  "version": "0.84"
 }
